@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Ouail Daghoussi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=800&center=true&vCenter=true&width=520&lines=Frontend+Developer;React+%7C+Next.js+%7C+Supabase;Building+Real-World+Projects;Open+to+Germany+Opportunities+🇩🇪" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=800&center=true&vCenter=true&width=520&lines=Frontend+Developer;React+%7C+Next.js+%7C+Supabase;Building+Real-World+Projects;" />
 </p>
 
 ---
